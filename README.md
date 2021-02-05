@@ -32,5 +32,5 @@
 [over-golang](https://github.com/overnote/over-golang)
 
 ### blog
-[options-pattern](https://www.sohamkamani.com/golang/options-pattern/)
+[options-pattern](https://www.sohamkamani.com/golang/options-pattern/)  
 [memory-leaking](https://go101.org/article/memory-leaking.html)
