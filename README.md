@@ -28,9 +28,13 @@
 ### env
 - [viper](https://github.com/spf13/viper)
 
+### log
+- [zerolog](https://github.com/rs/zerolog)
+- [zap](https://github.com/uber-go/zap)
+
 ### study
-[over-golang](https://github.com/overnote/over-golang)
+- [over-golang](https://github.com/overnote/over-golang)
 
 ### blog
-[options-pattern](https://www.sohamkamani.com/golang/options-pattern/)  
-[memory-leaking](https://go101.org/article/memory-leaking.html)
+- [options-pattern](https://www.sohamkamani.com/golang/options-pattern/)  
+- [memory-leaking](https://go101.org/article/memory-leaking.html)
