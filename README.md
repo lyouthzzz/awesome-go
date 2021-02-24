@@ -15,6 +15,7 @@
 
 ### kit
 - [gitea](https://github.com/go-gitea/gitea)
+- [casbin](https://github.com/casbin/casbin)
 
 
 ### cli
