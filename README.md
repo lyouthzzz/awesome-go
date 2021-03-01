@@ -29,6 +29,11 @@
 ### env
 - [viper](https://github.com/spf13/viper)
 
+### json
+- [jsoniter](https:/github.com/json-iterator/go)
+- [simdjson-go](https://github.com/minio/simdjson-go)
+
+
 ### log
 - [zerolog](https://github.com/rs/zerolog)
 - [zap](https://github.com/uber-go/zap)
